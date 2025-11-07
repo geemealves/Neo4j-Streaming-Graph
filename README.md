@@ -17,6 +17,7 @@ O grafo possui a seguinte estrutura central:
 - `(Movie/Series) -[:IN_GENRE]-> (Genre)`
 
 **Diagrama:**
+
 <img width="730" height="1122" alt="visualisation" src="https://github.com/user-attachments/assets/192d024e-02f3-4936-8b41-1d4588b0e0ed" />
 
 
